@@ -266,7 +266,9 @@ footer{
     text-align: center;
     
   }
-  
+  .btn:hover{
+        transform: none;
+    }
   
 }
 
@@ -296,7 +298,9 @@ footer{
         text-align: center;
         
       }
-      
+      .btn:hover{
+        transform: none;
+    }
       
 }
 
@@ -307,6 +311,8 @@ footer{
     .footer{
         flex-direction: column;
       }
-      
+      .btn:hover{
+        transform: none;
+    }
 }
   
