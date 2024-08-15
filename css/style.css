@@ -305,7 +305,7 @@ footer{
 
 /* ========================= media query ======================*/
 
-@media only screen and (max-width: 429px) {
+@media only screen and (max-width: 428px) {
     /* Styles pour les écrans avec une largeur minimale de 600px */
     body{
         margin: 0;
